@@ -1,2 +1,2 @@
 # ESP32-Water-Pressure-Sensor-to-Googlesheet
-Sending water pressure from esp32 to googlesheet
+Online Logging To Google Sheet using extension App Script
